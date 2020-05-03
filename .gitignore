@@ -1,0 +1,10 @@
+
+# Created by @realAfonso
+
+# IntelliJ
+.idea
+
+# Robot Framework
+log.html
+output.xml
+report.html
